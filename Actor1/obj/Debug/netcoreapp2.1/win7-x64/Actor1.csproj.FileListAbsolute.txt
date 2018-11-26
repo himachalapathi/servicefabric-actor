@@ -1,0 +1,17 @@
+F:\himachalapathireddy\ServicefabricActor\Actor1\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+F:\himachalapathireddy\ServicefabricActor\Actor1\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+F:\himachalapathireddy\ServicefabricActor\Actor1\bin\Debug\netcoreapp2.1\win7-x64\Actor1.exe
+F:\himachalapathireddy\ServicefabricActor\Actor1\bin\Debug\netcoreapp2.1\win7-x64\Actor1.deps.json
+F:\himachalapathireddy\ServicefabricActor\Actor1\bin\Debug\netcoreapp2.1\win7-x64\Actor1.runtimeconfig.json
+F:\himachalapathireddy\ServicefabricActor\Actor1\bin\Debug\netcoreapp2.1\win7-x64\Actor1.runtimeconfig.dev.json
+F:\himachalapathireddy\ServicefabricActor\Actor1\bin\Debug\netcoreapp2.1\win7-x64\Actor1.dll
+F:\himachalapathireddy\ServicefabricActor\Actor1\bin\Debug\netcoreapp2.1\win7-x64\Actor1.pdb
+F:\himachalapathireddy\ServicefabricActor\Actor1\bin\Debug\netcoreapp2.1\win7-x64\Actor1.Interfaces.dll
+F:\himachalapathireddy\ServicefabricActor\Actor1\bin\Debug\netcoreapp2.1\win7-x64\Actor1.Interfaces.pdb
+F:\himachalapathireddy\ServicefabricActor\Actor1\obj\Debug\netcoreapp2.1\win7-x64\Actor1.csprojAssemblyReference.cache
+F:\himachalapathireddy\ServicefabricActor\Actor1\obj\Debug\netcoreapp2.1\win7-x64\Actor1.csproj.CoreCompileInputs.cache
+F:\himachalapathireddy\ServicefabricActor\Actor1\obj\Debug\netcoreapp2.1\win7-x64\Actor1.AssemblyInfoInputs.cache
+F:\himachalapathireddy\ServicefabricActor\Actor1\obj\Debug\netcoreapp2.1\win7-x64\Actor1.AssemblyInfo.cs
+F:\himachalapathireddy\ServicefabricActor\Actor1\obj\Debug\netcoreapp2.1\win7-x64\Actor1.csproj.CopyComplete
+F:\himachalapathireddy\ServicefabricActor\Actor1\obj\Debug\netcoreapp2.1\win7-x64\Actor1.dll
+F:\himachalapathireddy\ServicefabricActor\Actor1\obj\Debug\netcoreapp2.1\win7-x64\Actor1.pdb
